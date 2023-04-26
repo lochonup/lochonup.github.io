@@ -2,76 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lochonup.github.io/books/1/</loc>
-    <lastmod>2023-04-26T23:33:47+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/film/1/</loc>
-    <lastmod>2023-04-26T23:33:47+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/1/</loc>
-    <lastmod>2023-04-26T23:33:47+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/extract/23/</loc>
-    <lastmod>2023-04-27T01:52:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/tech/23/</loc>
-    <lastmod>2023-04-27T01:52:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/books/5/</loc>
-    <lastmod>2023-04-27T00:53:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/film/5/</loc>
-    <lastmod>2023-04-27T00:53:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/5/</loc>
-    <lastmod>2023-04-27T00:53:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/books/</loc>
-    <lastmod>2023-04-27T00:56:00+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/extract/</loc>
-    <lastmod>2023-04-27T01:53:17+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/film/</loc>
-    <lastmod>2023-04-27T00:56:00+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/</loc>
-    <lastmod>2023-04-27T00:56:00+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/tech/</loc>
-    <lastmod>2023-04-27T01:53:17+08:00</lastmod>
+    <loc>https://lochonup.github.io/about/</loc>
+    <lastmod>2023-04-11T23:19:34+08:00</lastmod>
   </url><url>
     <loc>https://lochonup.github.io/</loc>
     <lastmod>2023-04-27T01:53:17+08:00</lastmod>
   </url><url>
-    <loc>https://lochonup.github.io/about/</loc>
-    <lastmod>2023-04-11T23:19:34+08:00</lastmod>
-  </url><url>
     <loc>https://lochonup.github.io/books/3/</loc>
-    <lastmod>2023-04-27T00:55:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/film/3/</loc>
-    <lastmod>2023-04-27T00:55:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/3/</loc>
     <lastmod>2023-04-27T00:55:51+08:00</lastmod>
   </url><url>
     <loc>https://lochonup.github.io/extract/30/</loc>
     <lastmod>2023-04-27T01:53:17+08:00</lastmod>
   </url><url>
-    <loc>https://lochonup.github.io/tech/30/</loc>
-    <lastmod>2023-04-27T01:53:17+08:00</lastmod>
-  </url><url>
     <loc>https://lochonup.github.io/books/7/</loc>
     <lastmod>2023-04-27T00:54:49+08:00</lastmod>
   </url><url>
-    <loc>https://lochonup.github.io/film/7/</loc>
-    <lastmod>2023-04-27T00:54:49+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/7/</loc>
-    <lastmod>2023-04-27T00:54:49+08:00</lastmod>
+    <loc>https://lochonup.github.io/books/</loc>
+    <lastmod>2023-04-27T00:56:00+08:00</lastmod>
   </url><url>
     <loc>https://lochonup.github.io/categories/</loc>
+    <lastmod>2023-04-27T01:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lochonup.github.io/extract/</loc>
     <lastmod>2023-04-27T01:53:17+08:00</lastmod>
   </url><url>
     <loc>https://lochonup.github.io/tags/hugo/</loc>
@@ -89,19 +41,7 @@
     <loc>https://lochonup.github.io/books/4/</loc>
     <lastmod>2023-04-27T00:55:40+08:00</lastmod>
   </url><url>
-    <loc>https://lochonup.github.io/film/4/</loc>
-    <lastmod>2023-04-27T00:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/4/</loc>
-    <lastmod>2023-04-27T00:55:40+08:00</lastmod>
-  </url><url>
     <loc>https://lochonup.github.io/books/8/</loc>
-    <lastmod>2023-04-27T00:55:01+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/film/8/</loc>
-    <lastmod>2023-04-27T00:55:01+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/8/</loc>
     <lastmod>2023-04-27T00:55:01+08:00</lastmod>
   </url><url>
     <loc>https://lochonup.github.io/tags/%E5%B1%B1%E6%B4%9E/</loc>
@@ -119,19 +59,7 @@
     <loc>https://lochonup.github.io/books/2/</loc>
     <lastmod>2023-04-27T00:56:00+08:00</lastmod>
   </url><url>
-    <loc>https://lochonup.github.io/film/2/</loc>
-    <lastmod>2023-04-27T00:56:00+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/2/</loc>
-    <lastmod>2023-04-27T00:56:00+08:00</lastmod>
-  </url><url>
     <loc>https://lochonup.github.io/books/6/</loc>
-    <lastmod>2023-04-27T00:55:10+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/film/6/</loc>
-    <lastmod>2023-04-27T00:55:10+08:00</lastmod>
-  </url><url>
-    <loc>https://lochonup.github.io/life/6/</loc>
     <lastmod>2023-04-27T00:55:10+08:00</lastmod>
   </url><url>
     <loc>https://lochonup.github.io/tags/hexo/</loc>
