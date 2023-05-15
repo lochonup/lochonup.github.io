@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>好久不见◞✧</title>
-        <link>lvweicheng.com/</link>
+        <link>https://lochonup.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.111.3 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 16 May 2023 00:58:30 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 01:06:23 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="lvweicheng.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://lochonup.github.io/rss.xml" />
         
         
             <item>
                 <title>1</title>
-                <link>lvweicheng.com/books/1/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/1/</guid>
+                <link>https://lochonup.github.io/books/1/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/1/</guid>
                 <pubDate>Wed, 26 Apr 2023 21:55:39 &#43;0800</pubDate>
                 
                 
@@ -58,8 +58,8 @@
         
             <item>
                 <title>5</title>
-                <link>lvweicheng.com/books/5/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/5/</guid>
+                <link>https://lochonup.github.io/books/5/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/5/</guid>
                 <pubDate>Wed, 26 Apr 2023 21:55:39 &#43;0800</pubDate>
                 
                 
@@ -86,8 +86,8 @@
         
             <item>
                 <title>3</title>
-                <link>lvweicheng.com/books/3/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/3/</guid>
+                <link>https://lochonup.github.io/books/3/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/3/</guid>
                 <pubDate>Sun, 10 Apr 2022 10:10:18 &#43;0000</pubDate>
                 
                 
@@ -108,7 +108,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+                                    <category domain="https://lochonup.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
                                 
                             
                         
@@ -118,7 +118,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/tags/hugo/">hugo</category>
+                                    <category domain="https://lochonup.github.io/tags/hugo/">hugo</category>
                                 
                             
                         
@@ -128,8 +128,8 @@
         
             <item>
                 <title>7</title>
-                <link>lvweicheng.com/books/7/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/7/</guid>
+                <link>https://lochonup.github.io/books/7/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/7/</guid>
                 <pubDate>Sun, 10 Apr 2022 10:10:18 &#43;0000</pubDate>
                 
                 
@@ -150,7 +150,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+                                    <category domain="https://lochonup.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
                                 
                             
                         
@@ -160,7 +160,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/tags/java/">java</category>
+                                    <category domain="https://lochonup.github.io/tags/java/">java</category>
                                 
                             
                         
@@ -170,8 +170,8 @@
         
             <item>
                 <title>4</title>
-                <link>lvweicheng.com/books/4/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/4/</guid>
+                <link>https://lochonup.github.io/books/4/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/4/</guid>
                 <pubDate>Thu, 10 Feb 2022 10:10:18 &#43;0000</pubDate>
                 
                 
@@ -189,7 +189,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/categories/%E6%8E%A2%E9%99%A9/">探险</category>
+                                    <category domain="https://lochonup.github.io/categories/%E6%8E%A2%E9%99%A9/">探险</category>
                                 
                             
                         
@@ -199,7 +199,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/tags/%E5%B1%B1%E6%B4%9E/">山洞</category>
+                                    <category domain="https://lochonup.github.io/tags/%E5%B1%B1%E6%B4%9E/">山洞</category>
                                 
                             
                         
@@ -209,8 +209,8 @@
         
             <item>
                 <title>8</title>
-                <link>lvweicheng.com/books/8/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/8/</guid>
+                <link>https://lochonup.github.io/books/8/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/8/</guid>
                 <pubDate>Thu, 10 Feb 2022 10:10:18 &#43;0000</pubDate>
                 
                 
@@ -228,7 +228,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://lochonup.github.io/categories/%E7%94%9F%E6%B4%BB/">生活</category>
                                 
                             
                         
@@ -238,7 +238,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/tags/%E8%8A%B1%E6%9C%B5/">花朵</category>
+                                    <category domain="https://lochonup.github.io/tags/%E8%8A%B1%E6%9C%B5/">花朵</category>
                                 
                             
                         
@@ -248,8 +248,8 @@
         
             <item>
                 <title>2</title>
-                <link>lvweicheng.com/books/2/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/2/</guid>
+                <link>https://lochonup.github.io/books/2/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/2/</guid>
                 <pubDate>Wed, 10 Apr 2019 03:15:40 &#43;0800</pubDate>
                 
                 
@@ -267,7 +267,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+                                    <category domain="https://lochonup.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
                                 
                             
                         
@@ -277,7 +277,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/tags/hugo/">hugo</category>
+                                    <category domain="https://lochonup.github.io/tags/hugo/">hugo</category>
                                 
                             
                         
@@ -287,8 +287,8 @@
         
             <item>
                 <title>6</title>
-                <link>lvweicheng.com/books/6/</link>
-                <guid isPermaLink="true">lvweicheng.com/books/6/</guid>
+                <link>https://lochonup.github.io/books/6/</link>
+                <guid isPermaLink="true">https://lochonup.github.io/books/6/</guid>
                 <pubDate>Wed, 10 Apr 2019 03:15:40 &#43;0800</pubDate>
                 
                 
@@ -306,7 +306,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+                                    <category domain="https://lochonup.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
                                 
                             
                         
@@ -316,7 +316,7 @@
                                 
                                 
                                 
-                                    <category domain="lvweicheng.com/tags/hexo/">hexo</category>
+                                    <category domain="https://lochonup.github.io/tags/hexo/">hexo</category>
                                 
                             
                         
